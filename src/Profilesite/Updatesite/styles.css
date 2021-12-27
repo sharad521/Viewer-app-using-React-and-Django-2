@@ -1,0 +1,36 @@
+.posting{
+    border: solid;
+    margin-left: 70px;
+    margin-top: 40px;
+    
+}
+.alignpost{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.shifting{
+    margin-left: 80px;
+}
+.down{
+    margin-top: 20px;
+}
+.viewarea{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.opinionarea{
+    margin-left:40px ;
+    width: 1050px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.viewpost{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+}

@@ -1,0 +1,76 @@
+.App {
+  margin-left: 20px;
+  display: flex ;
+  flex-direction: row;
+  border: solid;
+  width:100%;
+  height: 50px;
+  margin-left: 0px;
+  background-color:rgb(85, 66, 66) ;
+  border-color: rgb(85, 66, 66);
+}
+
+input {
+  display: block;
+  margin: 5px 0 5px;
+}
+.firstpage{
+  display: flex;
+  flex-direction: row;
+}
+.Nav{
+  width: 90px;
+  height:48px;
+  background-color: rgb(49, 36, 36);
+  margin-top: -2.2px;
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 47px;
+ border-color:rgb(49, 36, 36);
+ margin-top: -2.2px;
+ color: rgb(240, 245, 174);
+ 
+}
+.Nav1{
+  
+    width: 90px;
+    height:48px;
+    background-color: rgb(49, 36, 36);
+    margin-top: -2.2px;
+   font-size: 23px;
+   font-weight: bold;
+  
+   border-color:rgb(49, 36, 36);
+   margin-top: -2.2px;
+   color: rgb(240, 245, 174);
+}
+.Loginbox{
+  border: solid;
+  margin-top: 100px;
+  height: 230px;
+  width: 550px;
+  border-radius: 20px;
+  margin-left: 350px;
+  background-color: rgb(103, 103, 209);
+}
+.username{
+  margin-top: 10px;
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.password{
+  margin-top: 10px;
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.send{
+  width:100px;
+  height: 40px;
+  margin-left: 30px;
+  font-weight: bold;
+}
+.entry{
+  margin-left: 30px;
+}

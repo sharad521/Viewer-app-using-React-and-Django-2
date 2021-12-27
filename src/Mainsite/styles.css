@@ -1,0 +1,25 @@
+.headline{
+    display: flex;
+    flex-direction: row;
+}
+.home{
+    height:48px;
+    background-color: rgb(49, 36, 36);
+    margin-top: -2.2px;
+    color: rgb(240, 245, 174);
+    font-weight: bold;
+}
+.profile{
+    height:48px;
+    background-color: rgb(49, 36, 36);
+    margin-top: -2.2px;
+    color: rgb(240, 245, 174);
+    font-weight: bold;
+}
+.Intro{
+  margin-left: 350px;
+  font-family:Monospace;
+  font-weight: bold;
+  font-size: 34px;
+  color: rgb(240, 245, 174);
+}

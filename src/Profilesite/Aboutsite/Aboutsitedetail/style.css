@@ -1,0 +1,33 @@
+.infobox{
+    width: 1120px;
+    height: 480px;
+    border: solid;
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-width: thin;
+}
+.detailbox{
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    width: 550px;
+    font-size: 20px;
+    margin-top: 10px;
+   border-width: 0px;
+    margin-left: 5px;
+    
+    
+}
+.deleteabout{
+    width:280px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+span{
+    margin-top: 12px;
+    text-align: left;
+    margin-left: 20px;
+}
